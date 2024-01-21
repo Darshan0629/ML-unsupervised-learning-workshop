@@ -36,7 +36,7 @@ Before starting the workshop, make sure you have the following prerequisites ins
 You can install the required Python libraries by running:
 
 ```
-pip install numpy pandas scikit-learn
+pip install numpy pandas scikit-learn matplotlib
 ```
 
 ## Setup
@@ -84,6 +84,7 @@ Open the Jupyter Notebooks in the `notebooks/` directory to follow along with th
 - [Scikit-Learn Documentation](https://scikit-learn.org/stable/documentation.html)
 - [Python Documentation](https://docs.python.org/3/)
 - [Jupyter Notebook Documentation](https://jupyter-notebook.readthedocs.io/en/stable/)
+- [Matplotlib Documentation](https://matplotlib.org/stable/contents.html)
 
 ## License
 
