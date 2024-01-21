@@ -88,6 +88,6 @@ Open the Jupyter Notebooks in the `notebooks/` directory to follow along with th
 
 ## License
 
-This workshop is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This workshop is licensed under the MIT License.
 
 Happy learning! If you have any questions or feedback, feel free to reach out to us.
